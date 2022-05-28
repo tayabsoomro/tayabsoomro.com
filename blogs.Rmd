@@ -1,0 +1,16 @@
+---
+output:
+  html_document:
+    css: ./columns.css
+theme: readable
+---
+
+# blogs 
+
+<iframe src="https://widget.tagembed.com/44590?view" style="border:none;width:100% !important;height:100vh;overflow: auto;" allowfullscreen="" allow="autoplay" data-external="1">Loading...</iframe>
+
+
+
+
+
+

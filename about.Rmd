@@ -1,0 +1,63 @@
+---
+output:
+  html_document:
+    css: ./columns.css
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+toc_depth: 3
+number_sections: true
+theme: readable
+---
+
+
+:::::: {.center}
+
+
+<img src="https://tayabsoomro.github.io/images/profile3.jpeg" width="250" class="img-circle border-black" />
+
+### Tayab Soomro
+Computational Biologist @ NRGene  
+Graduate student @ Dalhousie University
+
+--------------
+
+*I am currently finishing my M.Sc. degree while working as a part-time computational biologist @ NRGene Canada Inc.*
+
+::::::
+
+# Current
+
+- Computational Biologist @ [https://nrgene.com](NRGene Canada Inc.)
+- Graduate student @ [Institute of Comparitive Genomics](https://icgenomics.ca/) - Dalhousie University
+
+# Interests
+
+Genomics • Software Engineering • Automation • Machine Learning
+
+# Past Employment
+
+- (2020 - Present) **Computational Biologist** @ [NRGene Canada Inc.](https://nrgene.com)    
+
+- (2020 - 2022) **Co-Founder \& CTO** \@ VocationNations
+
+- ( 2020 ) **Independent web dev contractor** @ [Luxsonic Technologies](https://luxsonic.ca/)   
+
+- (2019 - 2020) **Student Bioinformatician** @ <abbr title="Agriculture & Agri-Food Canada, Saskatoon Research & Development Centre, Saskatoon, Saskatchewan, Canada">AAFC</abbr>   
+
+- (2017 - 2019) **Student Research Assistant** @ [Links Lab](https://agbio.usask.ca/faculty-and-staff/people-pages/matthew-links.php#research_areas), University of Saskatchewan  
+
+# Education
+
+- **M.Sc. Agriculture** (2020 - 2022) 
+*Institute of Comparative Genomics, Faculty of Agriculture @ Dalhousie University*
+
+- **B.Sc. (Honours) Bioinformatics** (2015 - 2020) 
+*Department of Computer Science, University of Saskatchewan*
+
+# Awards and Certification
+- (2018) **Undergraduate Student Research Assistantship (USRA) Award**  
+Department of Computer Science, University of Saskatchewan
+
+- (2015) **Programming Contest Award –– 1st Place Recipient**  
+Department of Computer Science, University of Saskatchewan

@@ -1,0 +1,6 @@
+library(stringi)
+library(stringr)
+
+file_name_to_title <- function(name) {
+  gsub("-"," ",stri_trans_totitle(str_split(name,".Rmd")[[1]][1]))
+}

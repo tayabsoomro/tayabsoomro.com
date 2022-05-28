@@ -1,0 +1,39 @@
+---
+output:
+  html_document:
+    css: ./columns.css
+theme: readable
+---
+
+
+# posters
+
+- *Soomro T*, Jordan M, Watts S, Migicovsky Z, Forney C, Song J, Myles S. (2021). **Harvest Date Shapes Apple Volatilome.**  
+Presented at: Plant and Animal Genomes Conference, San Diego, CA, USA
+
+- *Soomro T*, Napper S, Bonham-Smith PC. (2020). Investigation of the **Arabidopsis thaliana kinome after infection with Plasmodiophora brassicae and establishment of clubroot.***   
+Presented at: American Association for the Advancement of Science, Seattle, WA, USA
+
+- *Soomro T*, Links MG. (2018). **Increased Usability of the MinION.**  
+Presented at: Mobilizing the Plant Phenotyping and Imaging Research Centre Symposium, Saskatoon, Canada
+
+- *Soomro T*, Links MG. (2018). **Sequence & Forget: A new paradigm for MinION DNA Sequencing.**  
+Presented at: Research Fest: Department of Computer Science, Saskatoon, Canada
+
+- Dowhy T, *Soomro T*, Links MG. (2018). **Interactive Exploration of Base-calls in Nanopore Data.**  
+Presented at: London Calling 2018, London, United Kingdom
+
+- Dowhy T, *Soomro T*, Links MG. (2017). **Visualization of Nanopore Data with API Access to Data.**  
+Presented at: Nanopore Community Meeting, New York City, NY, USA
+
+- Dowhy T, Postnikoff DL, *Soomro T*, Town JR, Ready, Dumonceaux TJ, Links MG. (2017). **Base-Call Event Detection on Nanopore Data Using Wavelets.**  
+Presented at: Annual Plant Phenotyping and Imaging Research Centre Symposium, Saskatoon, Canada
+
+- Dowhy T, Ready B, *Soomro T*, Armitage A, Links MG. (2017). **Configuring Virtual Toolboxes with Ansible.**  
+Presented at: Annual Plant Phenotyping and Imaging Research Centre Symposium, Saskatoon, Canada
+
+
+
+
+
+
