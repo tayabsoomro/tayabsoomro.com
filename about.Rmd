@@ -15,7 +15,7 @@ theme: readable
 :::::: {.center}
 
 
-<img src="https://tayabsoomro.github.io/images/profile3.jpeg" width="250" class="img-circle border-black" />
+<img src="./images/profile.jpeg" width="250" class="img-circle border-black" />
 
 ### Tayab Soomro
 Computational Biologist @ NRGene  
