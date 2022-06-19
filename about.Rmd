@@ -1,6 +1,7 @@
 ---
 output:
   html_document:
+    title: 'About - Tayab Soomro'
     css: ./columns.css
     toc: true
     toc_float: true

@@ -1,6 +1,0 @@
-name: "My new website"
-output_dir: 'docs'
-output:
-  html_document:
-    theme: readable
-    highlight: zenburn
