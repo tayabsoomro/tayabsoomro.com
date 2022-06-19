@@ -1,13 +1,21 @@
 ---
 output:
   html_document:
-    css: ./columns.css
+    css: ['./css/columns.css','./css/main.css']
 theme: readable
+title: "Tayab Soomro"
 ---
 
-<iframe src="https://widget.tagembed.com/44590?view" style="border:none;width:100% !important;height:100vh;overflow: auto;" allowfullscreen="" allow="autoplay" data-external="1"></iframe>
+<div class="vspacer-250"></div>
+<br />
+<center class="intro">
+Hi! 👋 <br />
+My name is <span id='tayab'><b>tayab</b></span>soomro
+</center>
 
-
+```{r, echo=FALSE}
+tippy::tippy_this(elementId = 'tayab', tooltip = "Tāyāb")
+```
 
 
 

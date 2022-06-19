@@ -1,8 +1,9 @@
 ---
 output:
   html_document:
-    css: ./columns.css
+    css: ['./css/columns.css','./css/main.css']
 theme: readable
+title: "Blogs - Tayab Soomro"
 ---
 
 # blogs 

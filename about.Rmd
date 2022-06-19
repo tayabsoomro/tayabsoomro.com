@@ -1,12 +1,12 @@
 ---
 output:
   html_document:
-    title: 'About - Tayab Soomro'
-    css: ./columns.css
+    css: ['./css/columns.css','./css/main.css']
     toc: true
     toc_float: true
     toc_collapsed: true
 toc_depth: 3
+title: "About - Tayab Soomro"
 number_sections: true
 theme: readable
 ---

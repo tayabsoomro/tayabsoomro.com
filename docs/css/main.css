@@ -1,0 +1,12 @@
+h1.title {
+  display: none;
+}
+
+.intro {
+  font-size: 45px;
+  font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.vspacer-250 {
+  height: 250px !important;
+}
