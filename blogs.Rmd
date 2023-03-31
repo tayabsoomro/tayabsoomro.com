@@ -8,10 +8,7 @@ title: "Blogs - Tayab Soomro"
 
 # blogs 
 
-<iframe src="https://widget.tagembed.com/44590?view" style="border:none;width:100% !important;height:100vh;overflow: auto;" allowfullscreen="" allow="autoplay" data-external="1">Loading...</iframe>
-
-
-
+<script type="text/javascript" src="https://www.juicer.io/embed/https-tayabsoomro-medium-com-feed/embed-code.js" async defer></script>
 
 
 
