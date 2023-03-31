@@ -18,8 +18,6 @@ theme: readable
 <img src="./images/profile.jpeg" width="250" class="img-circle border-black" />
 
 ### Tayab Soomro
-Computational Biologist @ NRGene  
-Graduate student @ Dalhousie University
 
 --------------
 
@@ -40,8 +38,6 @@ Genomics • Software Engineering • Automation • Machine Learning
 
 - (2020 - Present) **Computational Biologist** @ [NRGene Canada Inc.](https://nrgene.com)    
 
-- (2020 - 2022) **Co-Founder \& CTO** \@ VocationNations
-
 - ( 2020 ) **Independent web dev contractor** @ [Luxsonic Technologies](https://luxsonic.ca/)   
 
 - (2019 - 2020) **Student Bioinformatician** @ <abbr title="Agriculture & Agri-Food Canada, Saskatoon Research & Development Centre, Saskatoon, Saskatchewan, Canada">AAFC</abbr>   
@@ -56,9 +52,3 @@ Genomics • Software Engineering • Automation • Machine Learning
 - **B.Sc. (Honours) Bioinformatics** (2015 - 2020) 
 *Department of Computer Science, University of Saskatchewan*
 
-# Awards and Certification
-- (2018) **Undergraduate Student Research Assistantship (USRA) Award**  
-Department of Computer Science, University of Saskatchewan
-
-- (2015) **Programming Contest Award –– 1st Place Recipient**  
-Department of Computer Science, University of Saskatchewan
