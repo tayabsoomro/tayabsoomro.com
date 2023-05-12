@@ -27,8 +27,7 @@ theme: readable
 
 # Current
 
-- Computational Biologist @ [NRGene Canada Inc.](https://nrgene.com)
-- Graduate student @ [Institute of Comparitive Genomics](https://icgenomics.ca/) - Dalhousie University
+- Founder and CEO [PathoScan](https://pathscan.com)
 
 # Interests
 
@@ -36,7 +35,7 @@ Genomics • Software Engineering • Automation • Machine Learning
 
 # Past Employment
 
-- (2020 - Present) **Computational Biologist** @ [NRGene Canada Inc.](https://nrgene.com)    
+- (2020 - 2023) **Computational Biologist** @ [NRGene Canada Inc.](https://nrgene.com)    
 
 - ( 2020 ) **Independent web dev contractor** @ [Luxsonic Technologies](https://luxsonic.ca/)   
 
