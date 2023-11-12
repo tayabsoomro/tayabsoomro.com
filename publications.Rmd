@@ -8,9 +8,11 @@ title: "Publications - Tayab Soomro"
 
 # publications
 
-- *Soomro T*, Jordan M, Watts S, Migicovsky Z, Forney C, Song J, Myles S. (under review). **Genomic insights into apple aroma diversity.**
+- **Soomro T**, Jordan M, Watts S, Migicovsky Z, Forney C, Song J, Myles S. (2023). [**Genomic insights into apple aroma diversity**](https://www.maxapress.com/article/doi/10.48130/FruRes-2023-0027). *Fruit Research*.
 
-- *Soomro T*, Watts Sophie, Migicovsky Zoë, Myles S. (2022). [**Cider and dessert apples: What's the difference?**](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10284) *Plants, People, Planet*
+- Obshta O, Zabrodski MW, **Soomro T**, Wilson G, Masood F, Thebeau J, Silva MCB, Biganski S, Kozii IV, Koziy RV, Raza MF, Jose MS, Simko E, Wood SC. (2023). [**Oxytetracycline-resistant Paenibacillus larvae identified in commercial beekeeping operations in Saskatchewan using pooled honey sampling**](https://journals.sagepub.com/doi/10.1177/10406387231200178). *Journal of Veterinary Diagnostic Investigation*.
+
+- **Soomro T**, Watts Sophie, Migicovsky Zoë, Myles S. (2022). [**Cider and dessert apples: What's the difference?**](https://nph.onlinelibrary.wiley.com/doi/full/10.1002/ppp3.10284) *Plants, People, Planet*
 
 
 

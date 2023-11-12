@@ -21,12 +21,13 @@ theme: readable
 
 --------------
 
-*I work as a computational biologist @ NRGene Canada Inc.*
+*I work as a Senior Computational Biologist @ FoodImprover Inc.*
 
 ::::::
 
 # Current
 
+- Senior Computational Biologist [FoodImprover](https://www.foodimprover.com)
 - Founder and CEO [PathoScan](https://pathscan.com)
 
 # Interests
