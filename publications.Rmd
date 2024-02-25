@@ -6,7 +6,18 @@ theme: readable
 title: "Publications - Tayab Soomro"
 ---
 
-# publications
+<style>
+h3 {
+letter-spacing: 0.09em;
+line-spacing: 1px;
+}
+</style>
+
+<div class="vspacer-50"></div>
+
+<h3>PUBLICATIONS</h3>
+
+<div class="vspacer-20"></div>
 
 - **Soomro T**, Jordan M, Watts S, Migicovsky Z, Forney C, Song J, Myles S. (2023). [**Genomic insights into apple aroma diversity**](https://www.maxapress.com/article/doi/10.48130/FruRes-2023-0027). *Fruit Research*.
 

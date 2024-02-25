@@ -2,39 +2,41 @@
 output:
   html_document:
     css: ['./css/columns.css','./css/main.css']
-    toc: true
-    toc_float: true
-    toc_collapsed: true
-toc_depth: 3
 title: "About - Tayab Soomro"
 number_sections: true
 theme: readable
 ---
 
+<style>
+h3 {
+letter-spacing: 0.09em;
+line-spacing: 1px;
+}
+</style>
+
 
 :::::: {.center}
 
 
-<img src="./images/profile.jpeg" width="250" class="img-circle border-black" />
+--------------
 
-### Tayab Soomro
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tayab1996) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tayabsoomro) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayabsoomro) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tayabsoomro) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5590363) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tayabsoomro)
 
 --------------
 
-*I work as a Senior Computational Biologist @ FoodImprover Inc.*
-
 ::::::
 
-# Current
+<h3> CURRENT ROLES </h3>
 
 - Senior Computational Biologist [FoodImprover](https://www.foodimprover.com)
 - Founder and CEO [PathoScan](https://pathscan.com)
+- President [Avro Analytics](https://www.avroanalytics.com)
 
-# Interests
+<h3> INTERESTS </h3>
 
 Genomics • Software Engineering • Automation • Machine Learning
 
-# Past Employment
+<h3> PAST ROLES </h3>
 
 - (2020 - 2023) **Computational Biologist** @ [NRGene Canada Inc.](https://nrgene.com)    
 
@@ -44,7 +46,7 @@ Genomics • Software Engineering • Automation • Machine Learning
 
 - (2017 - 2019) **Student Research Assistant** @ [Links Lab](https://agbio.usask.ca/faculty-and-staff/people-pages/matthew-links.php#research_areas), University of Saskatchewan  
 
-# Education
+<h3> EDUCATION </h3>
 
 - **M.Sc. Agriculture** (2020 - 2022) 
 *Institute of Comparative Genomics, Faculty of Agriculture @ Dalhousie University*

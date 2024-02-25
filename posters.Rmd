@@ -6,8 +6,18 @@ theme: readable
 title: "Posters - Tayab Soomro"
 ---
 
+<style>
+h3 {
+letter-spacing: 0.09em;
+line-spacing: 1px;
+}
+</style>
 
-# posters
+<div class="vspacer-50"></div>
+
+<h3>POSTER PRESENTATIONS</h3>
+
+<div class="vspacer-20"></div>
 
 - Masood F, Thebeau J, <u>Soomro T</u>, Bezerra S.M, Jose M.S, Obshta O, Biganski S, Markova S, Camilli M, Raza M.F, Simko E, Ruzzini A, Wood S. (2023). **Antibiotic resistance and genomic characterization of North American Melissococcus plutonius isolates**  
 Presented at: WCVM Graduate Student Poster Day, Saskatoon, SK, Canada

@@ -6,17 +6,70 @@ theme: readable
 title: "Tayab Soomro"
 ---
 
-<div class="vspacer-250"></div>
-<br />
-<center class="intro">
-Hi! 👋 <br />
-My name is <span id='tayab'><b>tayab</b></span>soomro
-</center>
+<style>
+body {
+letter-spacing: 0.09em;
+line-spacing: 2px;
+}
+  .row {
+    display: flex;
+  }
+  .left-column {
+    flex: 33.33%; /* 1/3 of the container */
+    padding: 10px;
+  }
+  .right-column {
+    flex: 66.66%; /* 2/3 of the container */
+    padding: 10px;
+    text-align: center;
+  }
+  .profile-image {
+    display: block;
+    width: 100%;
+    border-radius: 2px;
+  }
+  .left {
+    display: inline-block;
+    text-align: left;
+  }
+</style>
 
-```{r, echo=FALSE}
-tippy::tippy_this(elementId = 'tayab', tooltip = "Tāyāb")
-```
-
-
-
-
+<div class="row">
+  <div class="left-column">
+  <div class="vspacer-50"></div>
+  <h1 class="tayab">TAYAB SOOMRO</h1>
+  <img src="images/tayab-new-pic.jpeg" alt="Tayab Soomro" class="profile-image">
+  </div>
+  <div class="right-column">
+  <div class="vspacer-20"></div>
+  <h2> HI THERE 👋  </h2>  
+  I am a <br /><b><span class="condensed">Software Engineer · Computational Biologist · Data Scientist</span></b>
+  <div class="vspacer-20"></div>
+  <h3>I AM CURRENTLY</h3>
+  <ul class="left">
+  <li>a Senior Computational Biologist @ <a href="https://foodimprover.com">FoodImprover Inc.</a></li>
+  <ul>
+  <li><span class="small"><i class="condensed">Analyzing world's largest apple traits dataset to understand their genetic underpinnings</i></span></li>
+  </ul>
+  <li>a Founder @ <a href="https://pathoscan.com">PathoScan</a></li>
+  <ul>
+  <li><span class="small"><i class="condensed">Revolutionizing crop disease diagnostics with a portable device</i></span></li>
+  </ul>
+  <li>a President @ <a href="https://www.avroanalytics.com">Avro Analytics Inc.</a></li>
+    <ul>
+  <li><span class="small"><i class="condensed">Providing bioinformatics consultation world-wide</i></span></li>
+  </ul>
+  </ul>
+  <div class="vspacer-20"></div>
+  <h3>I AM INTERESTED IN</h3>
+  <ul class="left">
+  <li><b>Genomics:</b> GWAS, QTL, Variant Calling, Assembly, Annotation</li>
+  <li><b>Devleopment:</b> Pipelines, Dashboards, Apps</li>
+  <li><b>Data Analysis:</b> Statistical Analysis, Business Intelligence</li>
+  <center>Whatever else that is interesting...</center>
+  </ul>
+  <div class="vspacer-20"></div>
+  <h3>LET'S CHAT!</h3>
+  <span>If you are interested in collaborating with me on a project, please <a href="https://calendly.com/avro/tayabsoomro">set up a meeting with me</a></span>. I am looking forward to working with you!
+  </div>
+</div>
