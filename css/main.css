@@ -1,0 +1,23 @@
+h1.title {
+  display: none;
+}
+
+.intro {
+  font-size: 45px;
+  font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.vspacer-250 {
+  height: 250px !important;
+}
+.vspacer-20 { height: 20px !important;}
+.vspacer-50 {
+  height: 50px !important;
+}
+.condensed { letter-spacing: normal;}
+.small {font-size: 15px;color: #888;}
+  
+.tayab {
+    letter-spacing: 0.4em;
+    text-align:center;
+  }

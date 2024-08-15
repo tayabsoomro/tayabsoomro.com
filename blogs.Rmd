@@ -1,0 +1,14 @@
+---
+output:
+  html_document:
+    css: ['./css/columns.css','./css/main.css']
+theme: readable
+title: "Blogs - Tayab Soomro"
+---
+
+# blogs 
+
+<script type="text/javascript" src="https://www.juicer.io/embed/https-tayabsoomro-medium-com-feed/embed-code.js" async defer></script>
+
+
+
