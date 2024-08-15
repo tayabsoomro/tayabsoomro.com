@@ -1,0 +1,56 @@
+---
+output:
+  html_document:
+    css: ['./css/columns.css','./css/main.css']
+theme: readable
+title: "Posters - Tayab Soomro"
+---
+
+<style>
+h3 {
+letter-spacing: 0.09em;
+line-spacing: 1px;
+}
+</style>
+
+<div class="vspacer-50"></div>
+
+<h3>POSTER PRESENTATIONS</h3>
+
+<div class="vspacer-20"></div>
+
+- Masood F, Thebeau J, <u>Soomro T</u>, Bezerra S.M, Jose M.S, Obshta O, Biganski S, Markova S, Camilli M, Raza M.F, Simko E, Ruzzini A, Wood S. (2023). **Antibiotic resistance and genomic characterization of North American Melissococcus plutonius isolates**  
+Presented at: WCVM Graduate Student Poster Day, Saskatoon, SK, Canada
+
+- Obshta O, Zabrodski M. W, <u>Soomro T</u>, Wilson G, Masood F, Thebeau  J. M, Silva  M. C. B, Biganski  S, Kozii  I, Koziy  R, Raza  M. F, Jose  M. S, Camilli  M, Markova  S, Moshynskyy  I, Ruzzini  A, Simko E, Wood S. C. (2023). **Genetic determinants of oxytetracycline resistance in Paenibacillus larvae from Saskatchewan beekeeping operations**.   
+Presented at: WCVM Graduate Student Poster Day, Saskatoon, SK, Canada
+
+- <u>Soomro T</u>, Jordan M, Watts S, Migicovsky Z, Forney C, Song J, Myles S. (2021). **Harvest Date Shapes Apple Volatilome.**  
+Presented at: Plant and Animal Genomes Conference, San Diego, CA, USA
+
+- <u>Soomro T</u>, Napper S, Bonham-Smith PC. (2020). Investigation of the **Arabidopsis thaliana kinome after infection with Plasmodiophora brassicae and establishment of clubroot.**   
+Presented at: American Association for the Advancement of Science, Seattle, WA, USA
+
+- <u>Soomro T</u>, Links MG. (2018). **Increased Usability of the MinION.**  
+Presented at: Mobilizing the Plant Phenotyping and Imaging Research Centre Symposium, Saskatoon, Canada
+
+- <u>Soomro T</u>, Links MG. (2018). **Sequence & Forget: A new paradigm for MinION DNA Sequencing.**  
+Presented at: Research Fest: Department of Computer Science, Saskatoon, Canada
+
+- Dowhy T, <u>Soomro T</u>, Links MG. (2018). **Interactive Exploration of Base-calls in Nanopore Data.**  
+Presented at: London Calling 2018, London, United Kingdom
+
+- Dowhy T, <u>Soomro T</u>, Links MG. (2017). **Visualization of Nanopore Data with API Access to Data.**  
+Presented at: Nanopore Community Meeting, New York City, NY, USA
+
+- Dowhy T, Postnikoff DL, <u>Soomro T</u>, Town JR, Ready, Dumonceaux TJ, Links MG. (2017). **Base-Call Event Detection on Nanopore Data Using Wavelets.**  
+Presented at: Annual Plant Phenotyping and Imaging Research Centre Symposium, Saskatoon, Canada
+
+- Dowhy T, Ready B, <u>Soomro T</u>, Armitage A, Links MG. (2017). **Configuring Virtual Toolboxes with Ansible.**  
+Presented at: Annual Plant Phenotyping and Imaging Research Centre Symposium, Saskatoon, Canada
+
+
+
+
+
+
