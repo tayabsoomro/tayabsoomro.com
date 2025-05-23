@@ -35,12 +35,13 @@ line-spacing: 1.25px;
 </style>
 
 <div class="row">
-  <div class="left-column">
+  <!--<div class="left-column">
+  
+  <img src="images/tayabsoomro-profile-pic.jpg" alt="Tayab Soomro" class="profile-image" style="border-bottom:5px solid #444">
+  </div>-->
+  <div class="right-column">
   <div class="vspacer-50"></div>
   <h1 class="tayab">TAYAB SOOMRO</h1>
-  <img src="images/tayabsoomro-profile-pic.jpg" alt="Tayab Soomro" class="profile-image" style="border-bottom:5px solid #444">
-  </div>
-  <div class="right-column">
   <div class="vspacer-50"></div>
   <h3>I AM A</h3>
   <b><span class="condensed">Software Engineer · Computational Biologist · Data Scientist</span></b>
@@ -48,17 +49,15 @@ line-spacing: 1.25px;
   <h3>I AM CURRENTLY</h3>
   <ul class="left" style="float:left !important">
   <li>a <b>Founder</b> at <a href="https://pathoscan.com">PathoScan</a></li>
-  <ul>
-    <li>a revolutionary crop diagnostic solution</li>
-  </ul>
+  <li>a <b>Computational Biologist</b> at <a href="https://agriculture.canada.ca/en">Agriculture and Agri-Food Canada (AAFC)</a></li>
   </ul>
   <br />
   <div class="vspacer-20"></div>
   <h3>I AM INTERESTED IN</h3>
   <ul class="left">
+  <li><b>Soft. Development:</b> Pipelines, Dashboards, Apps</li>
+  <li><b>Data Analysis:</b> Statistical Analysis, Business Intelligence, Machine Learning</li>
   <li><b>Genomics:</b> GWAS, QTL, Variant Calling, Assembly, Annotation</li>
-  <li><b>Devleopment:</b> Pipelines, Dashboards, Apps</li>
-  <li><b>Data Analysis:</b> Statistical Analysis, Business Intelligence</li>
   <br />
   <center>Whatever else that is interesting...</center>
   </ul>

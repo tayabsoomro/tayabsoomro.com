@@ -19,8 +19,11 @@ line-spacing: 1px;
 
 <div class="vspacer-20"></div>
 
+- <a href="./posters/nanoCAS_poster_2025.pdf"><i class="fa fa-file-pdf fa-lg" aria-hidden="true"></i></a> <u>Soomro T</u>, Horovatin S, Dumonceaux T, Links M.G. (2025). **Towards timely and accurate pathogen detection**  
+Presented at: [BioNet 2025 Conference](https://www.linkedin.com/posts/tayabsoomro_bioinformatics-bionet-activity-7327740992353116160-3kSW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA34oIMBvrkB1EjRvb8tMof67mKNmFNv90A), Calgary, AB, Canada
+
 - Masood F, Thebeau J, <u>Soomro T</u>, Bezerra S.M, Jose M.S, Obshta O, Biganski S, Markova S, Camilli M, Raza M.F, Simko E, Ruzzini A, Wood S. (2023). **Antibiotic resistance and genomic characterization of North American Melissococcus plutonius isolates**  
-Presented at: WCVM Graduate Student Poster Day, Saskatoon, SK, Canada
+Presented at: WCVM Graduate Student Poster Day, Saskatoon, SK, Canada <i class="fa fa-file-pdf fa-lg" aria-hidden="true"></i>
 
 - Obshta O, Zabrodski M. W, <u>Soomro T</u>, Wilson G, Masood F, Thebeau  J. M, Silva  M. C. B, Biganski  S, Kozii  I, Koziy  R, Raza  M. F, Jose  M. S, Camilli  M, Markova  S, Moshynskyy  I, Ruzzini  A, Simko E, Wood S. C. (2023). **Genetic determinants of oxytetracycline resistance in Paenibacillus larvae from Saskatchewan beekeeping operations**.   
 Presented at: WCVM Graduate Student Poster Day, Saskatoon, SK, Canada
